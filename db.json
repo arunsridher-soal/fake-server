@@ -99,6 +99,38 @@
           "name": "Wine 5"
         }
       ]
+    },
+    {
+      "headerTitle": "More Fruits",
+      "listItem": [
+        {
+          "image": "https://png.pngtree.com/element_our/png/20180903/orange-png-png_75700.jpg",
+          "name": "Orange"
+        },
+        {
+          "image": "https://www.freepngimg.com/thumb/apple/9-apple-png-image-thumb.png",
+          "name": "Apple"
+        },
+        {
+          "image": "https://5.imimg.com/data5/RM/TY/MY-13308502/fresh-watermelon-500x500.png",
+          "name": "Watermellon"
+        },
+        {
+          "image": "https://c7.uihere.com/files/947/615/656/banana-food-fruit-clip-art-bananas-png-clipart-image-thumb.jpg",
+          "name": "Banana"
+        },
+        {
+          "image": "https://png.pngtree.com/element_pic/00/16/09/0657ce7dc878850.jpg",
+          "name": "Cherry"
+        }
+      ]
     }
+  ],
+  "banners": [
+    "https://images.unsplash.com/photo-1528958554955-034ef6459bf4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1949&q=80",
+    "https://images.unsplash.com/photo-1549813069-f95e44d7f498?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1820&q=80",
+    "https://images.unsplash.com/photo-1569018747791-23c5aaec35c3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1950&q=80",
+    "https://images.unsplash.com/photo-1542488246-1390a9a99a30?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1950&q=80",
+    "https://images.unsplash.com/photo-1523800378286-dae1f0dae656?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1938&q=80"
   ]
 }
